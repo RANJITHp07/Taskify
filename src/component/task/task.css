@@ -1,0 +1,17 @@
+.task1{
+    background-color: rgb(221, 226, 116);
+    border-radius: 3rem;
+}
+
+.task2{
+    background-color: rgb(195, 241, 182);
+    border-radius: 3rem;
+}
+
+.strikethrough {
+    text-decoration: line-through;
+  }
+  
+
+
+
